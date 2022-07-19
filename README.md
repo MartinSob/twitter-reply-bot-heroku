@@ -33,6 +33,8 @@ This repository was developed using the following resources:
 - [Twit package](https://www.npmjs.com/package/twit)
 - [Twitter reply bot](https://github.com/analog-nico/twitter-reply-bot)
 - [10 - Twitter reply bot](https://github.com/shiffman/A2Z-F15/blob/gh-pages/week9/10_twitter_replier_bot/bot.js)
+- [Twitter-API-v2-sample-code](https://github.com/twitterdev/Twitter-API-v2-sample-code)
+- [twitter-api-typescript-sdk](https://github.com/twitterdev/twitter-api-typescript-sdk)
 
 If the app is not able to twit because of `Error 401 - Read-only application cannot POST`, follow the following documents:
 - [Stackoverflow answer](https://stackoverflow.com/questions/8389796/why-this-error-read-only-application-cannot-post#:~:text=May%20be%20issue%20with%20your,Access%22%20%2D%3E%20Save%20it.)
